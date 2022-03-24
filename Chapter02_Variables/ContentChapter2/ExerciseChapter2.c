@@ -26,5 +26,6 @@ int main()
     printf("you are living since %u minutes\n", minutes);
 
     printf("you are living since %u seconds \n", seconds);
+
     return 0;
 }
